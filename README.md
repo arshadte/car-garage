@@ -24,7 +24,7 @@ To run the application locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/car-garage.git
+   git clone https://github.com/arshadte/car-garage.git
    cd car-garage-app
    ```
 

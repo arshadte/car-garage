@@ -9,6 +9,10 @@ This is a simple **React + TypeScript** application built with **Vite**. The pro
 - **View Car List**: A formatted display of all cars in the inventory, showing their details.
 - **Modern UI**: Built with React, styled for clarity and ease of use.
 
+## Preview
+
+![Car Garage Management App](./car-garage.png)
+
 ## Technologies Used
 
 - **React**: Frontend framework.

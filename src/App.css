@@ -1,0 +1,73 @@
+/* Main container for the app */
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Car List styling */
+.car-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.car-item {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  text-align: left;
+}
+
+.car-line {
+  display: flex;
+  justify-content: space-between; /* Align make and model on the same line */
+  font-size: 14px;
+}
+
+.car-item .registration, .car-item .price {
+  font-size: 12px;
+  margin: 2px 0;
+}
+
+/* Add Car Form styling */
+.add-car-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Space between rows */
+}
+
+.form-row {
+  display: flex;
+  gap: 20px; /* Space between fields in the same row */
+}
+
+label {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+input {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkgreen;
+}

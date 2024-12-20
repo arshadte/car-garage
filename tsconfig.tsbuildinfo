@@ -1,0 +1,1 @@
+{"root":["./jest-dom.d.ts","./src/vite-env.d.ts","./src/interfaces/index.ts","./src/app.tsx","./src/index.tsx","./src/components/addcarform.test.tsx","./src/components/addcarform.tsx","./src/components/carlist.tsx","./src/components/filtercars.tsx","./src/components/dummy.test.tsx"],"errors":true,"version":"5.6.3"}
